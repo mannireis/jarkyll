@@ -1,4 +1,6 @@
 ---
+title: home
 ---
 
-# tonic-starter
+# jarkyll
+a *cool* dark theme
