@@ -3,4 +3,4 @@ title: home
 ---
 
 # jarkyll
-a *cool* dark theme
+a *cool* dark space themed theme
